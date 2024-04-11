@@ -7,5 +7,3 @@
 
 # SOBRE
   Holy Python é uma junção de conteúdos. Projetos De python simples e complexos. Exercícios sobre a linguagem... Onde claudsaints desenvolve seu conhecimento e aprimora as habilidades, possibilitando estudantes principalmente do Brasil à terem ideias de projetos e auxiliar ao desenvolvimento de python.<br>
-  Projetos orientados por Prof. Dr.Angela Lee..<br>
-  Exercicios Propostos por Masanori Python Para Zumbis.
