@@ -6,4 +6,4 @@
 </h1>
 
 # SOBRE
-Holy Python é uma junção de conteúdos. Projetos De python simples e complexos... Onde claudsaints desenvolve seu conhecimento e aprimora as habilidades, possibilitando estudantes principalmente do Brasil à terem ideias de projetos e auxiliar ao desenvolvimento de python.<br>
+Holy Python é uma junção de projetos simples e complexos. Onde desenvolvo meu conhecimento e aprimoro minhas habilidades.
