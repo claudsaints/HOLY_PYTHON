@@ -6,4 +6,4 @@
 </h1>
 
 # SOBRE
-  Holy Python é uma junção de projetos simples e complexos. Onde desenvolvo meu conhecimento e aprimoro minhas habilidades.<br>
+Holy Python é uma junção de projetos simples e complexos. Onde desenvolvo meu conhecimento e aprimoro minhas habilidades.
